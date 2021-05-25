@@ -28,6 +28,6 @@
 ### 🤝🏻 &nbsp;Connect Me With
 
 <p align="center">
-<a href="https://www.discordapp.com/users/303061944339005440"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/></a>
+<a href="https://www.discordapp.com/users/303061944339005440"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 -----
