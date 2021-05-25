@@ -8,8 +8,8 @@
 🎓 &nbsp;I'm currently a simple young student\
 🌱 &nbsp;I'm on track for learning Lua and Javascript\
 ✍️ &nbsp;In my free time, I play Videogames a little bit.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can contact me on twitter or Discord
+💬 &nbsp;No project loading...\
+✉️ &nbsp;You can contact me on twitter or Discord.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
