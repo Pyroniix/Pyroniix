@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🤝🏻 &nbsp;Connect Me With
+### 🤝🏻 &nbsp;Contact Me With
 
 <p align="center">
 <a href="https://www.discordapp.com/users/303061944339005440"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
