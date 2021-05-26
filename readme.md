@@ -2,7 +2,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pyroniix -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### Hello, I'm Hugo ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+&nbsp;
 
 💡 &nbsp; I'like to learn new programming language.\
 🎓 &nbsp;I'm currently a simple young student\
