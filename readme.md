@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently a simple young student\
 🌱 &nbsp;I'm on track for learning Lua and Javascript\
 ✍️ &nbsp;In my free time, I play Videogames a little bit.\
-💬 &nbsp;No project loading...\
+📫 &nbsp;No project loading...\
 ✉️ &nbsp;You can contact me on twitter or Discord.
 
 
